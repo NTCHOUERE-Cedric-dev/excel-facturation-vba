@@ -46,4 +46,4 @@ processus de facturation sans logiciel dédié.
 
 **NTCHOUERE L. Cédric** — Développeur Excel/VBA Freelance  
 - GitHub : github.com/NTCHOUERE-Cedric-dev  
-- LinkedIn : linkedin.com/in/ton-profil
+- LinkedIn : https://www.linkedin.com/in/cedric-ntchouere-lebani
