@@ -1,0 +1,11 @@
+# Fichiers temporaires Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Dossier PDF généré automatiquement
+Factures_PDF/
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
